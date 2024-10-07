@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="border-b border-neutral-900 py-2 lg:mb-20" >
       <div className="flex flex-wrap">
-        <div className="w-full lg:w-1/2">
+        <div className="w-full lg:w-1/2 lg:p-8">
           <div className="flex flex-col items-center lg:items-start space-y-4">
             <h1 className="text-5xl py-4 font-thin tracking-tight lg:mt-8 lg:text-7xl">
               Maniha Affaf
